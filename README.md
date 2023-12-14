@@ -1,4 +1,4 @@
-Gambaran Umum
+Gambaran Umum<br>
 Dataset ini, yang disebut "Penghasilan Tabular," dirancang untuk memprediksi tingkat penghasilan berdasarkan berbagai fitur demografis. Tugas ini adalah masalah klasifikasi di mana tujuannya adalah memprediksi apakah penghasilan seseorang berada di bawah atau di atas batas tertentu.
 
 Sumber Data
