@@ -15,5 +15,8 @@ Variabel target adalah tingkat penghasilan, yang dikategorikan ke dalam dua kela
 Kelas 0: Penghasilan di bawah batas tertentu.
 Kelas 1: Penghasilan di atas atau sama dengan batas tersebut.
 <br>
+<h2>Link DataSet</h2>
+https://drive.google.com/drive/folders/1EaPl-LK3NTf_KlCJqPc3aLHdigRe3NJ5?usp=sharing
+<br>
 <h2>Format Dataset</h2><br>
 Dataset disajikan dalam format tabular, sebagai file CSV (Comma-Separated Values), di mana setiap baris mewakili individu dan setiap kolom mewakili fitur atau variabel target.
