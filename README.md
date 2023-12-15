@@ -4,16 +4,16 @@ Dataset ini, yang disebut "Penghasilan Tabular," dirancang untuk memprediksi tin
 <h2>Fitur</h2><br>
 Dataset ini mencakup fitur-fitur berikut:
 <br>
-Usia: Usia individu.
-Pendidikan: Tingkat pendidikan tertinggi yang dicapai oleh individu.
-Pekerjaan: Jenis pekerjaan individu.
-Jam Kerja per Minggu: Jumlah jam kerja individu per minggu.
-Negara Asal: Negara asal individu.
-Variabel Target
+Usia: Usia individu.<br>
+Pendidikan: Tingkat pendidikan tertinggi yang dicapai oleh individu.<br>
+Pekerjaan: Jenis pekerjaan individu.<br>
+Jam Kerja per Minggu: Jumlah jam kerja individu per minggu.<br>
+Negara Asal: Negara asal individu.<br>
+<h2>Variabel Target</h2>
 Variabel target adalah tingkat penghasilan, yang dikategorikan ke dalam dua kelas:
 <br>
-Kelas 0: Penghasilan di bawah batas tertentu.
-Kelas 1: Penghasilan di atas atau sama dengan batas tersebut.
+Kelas 0: Penghasilan di bawah batas tertentu.<br>
+Kelas 1: Penghasilan di atas atau sama dengan batas tersebut.<br>
 <br>
 <h2>Link DataSet</h2>
 https://drive.google.com/drive/folders/1EaPl-LK3NTf_KlCJqPc3aLHdigRe3NJ5?usp=sharing
